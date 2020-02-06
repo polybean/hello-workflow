@@ -1,0 +1,8 @@
+zeebe:
+  worker:
+    name: worker-name
+  client:
+    broker:
+      contact-point: "localhost:26500"
+    security:
+      plaintext: true
