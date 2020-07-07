@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "uuid": "^3.3.3",
-    "zeebe-node": "^0.21.2"
+    "uuid": "^8.2.0",
+    "zeebe-node": "^0.23.3"
   }
 }
